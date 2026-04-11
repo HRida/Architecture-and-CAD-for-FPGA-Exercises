@@ -1,0 +1,6 @@
+> Permutation of the input bits, by flipping the bits to get the order where the order can be evens and then odd ones.
+
+> carry chain / half-full adder -> program counter
+
+> MSB -> 0 and 8 are the same and so on
+  LSB -> 0 and 1 pair wise are the same
